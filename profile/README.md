@@ -4,7 +4,7 @@ Welcome! Cloud Harvest is a project which collects information from remote APIs 
 Developed in Python, we use a modular, configuration-driven approach so that users can develop their own data collection pipelines and reports. 
 
 # Project Status
-Cloud Harvest is in active development and is not yet in a usable state. Work continues steadily with plans to release the initial Alpha in late 2024.
+Cloud Harvest is in active development and is not yet in a usable state. Work continues steadily with plans to release the initial Alpha in late 2025.
 
 # License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
